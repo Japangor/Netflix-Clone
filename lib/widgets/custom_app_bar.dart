@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_netflix_responsive_ui/assets.dart';
-import 'package:flutter_netflix_responsive_ui/widgets/widgets.dart';
+import 'package:netflix/assets.dart';
+import 'package:netflix/widgets/widgets.dart';
 
 class CustomAppBar extends StatelessWidget {
   final double scrollOffset;
